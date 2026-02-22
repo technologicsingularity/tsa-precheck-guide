@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://technologicsingularity.github.io/tsa-precheck-guide/sitemap.xml
